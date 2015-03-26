@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from socket import *
 
 HOST = '127.0.0.1'
